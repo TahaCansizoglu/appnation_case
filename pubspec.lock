@@ -49,6 +49,14 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "7.3.2"
+  back_button_interceptor:
+    dependency: transitive
+    description:
+      name: back_button_interceptor
+      sha256: acd24e8b6fb985024426335761583902d5a9afefcc93785881896b406e1859ce
+      url: "https://pub.dev"
+    source: hosted
+    version: "5.0.2"
   bloc:
     dependency: transitive
     description:
@@ -297,6 +305,22 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "0.7.8"
+  device_info_plus:
+    dependency: "direct main"
+    description:
+      name: device_info_plus
+      sha256: "0042cb3b2a76413ea5f8a2b40cec2a33e01d0c937e91f0f7c211fde4f7739ba6"
+      url: "https://pub.dev"
+    source: hosted
+    version: "9.1.1"
+  device_info_plus_platform_interface:
+    dependency: transitive
+    description:
+      name: device_info_plus_platform_interface
+      sha256: d3b01d5868b50ae571cd1dc6e502fc94d956b665756180f7b16ead09e836fd64
+      url: "https://pub.dev"
+    source: hosted
+    version: "7.0.0"
   dio:
     dependency: "direct main"
     description:
@@ -305,6 +329,38 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "5.3.3"
+  draggable_menu:
+    dependency: "direct main"
+    description:
+      name: draggable_menu
+      sha256: f085e8a7d6fcac4c6f51bda6e75ae744037e9d72791ae2059518b4f8004c5ee1
+      url: "https://pub.dev"
+    source: hosted
+    version: "4.4.0"
+  expanded_bottom_sheet:
+    dependency: "direct main"
+    description:
+      name: expanded_bottom_sheet
+      sha256: "1d6c5d269df530363dac128aeedde93466a907f7ba97bd02abb9e63fbdb6fb7f"
+      url: "https://pub.dev"
+    source: hosted
+    version: "0.0.4"
+  extended_text_field:
+    dependency: "direct main"
+    description:
+      name: extended_text_field
+      sha256: "15f5d1e503c1b94cc3bba38168d60be4f4029a20813b9364b5ae7c3cf59d4fe3"
+      url: "https://pub.dev"
+    source: hosted
+    version: "12.1.1"
+  extended_text_library:
+    dependency: transitive
+    description:
+      name: extended_text_library
+      sha256: f6ae456324ff6ba3f9fe560a5c12f51ec02c5f463ef5a02bf165b678f049d547
+      url: "https://pub.dev"
+    source: hosted
+    version: "11.1.0"
   fake_async:
     dependency: transitive
     description:
@@ -390,6 +446,14 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "2.0.3"
+  flutter_screenutil:
+    dependency: "direct main"
+    description:
+      name: flutter_screenutil
+      sha256: "8cf100b8e4973dc570b6415a2090b0bfaa8756ad333db46939efc3e774ee100d"
+      url: "https://pub.dev"
+    source: hosted
+    version: "5.9.0"
   flutter_svg:
     dependency: "direct main"
     description:
@@ -973,6 +1037,14 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "5.0.9"
+  win32_registry:
+    dependency: transitive
+    description:
+      name: win32_registry
+      sha256: "41fd8a189940d8696b1b810efb9abcf60827b6cbfab90b0c43e8439e3a39d85a"
+      url: "https://pub.dev"
+    source: hosted
+    version: "1.1.2"
   xdg_directories:
     dependency: transitive
     description:
