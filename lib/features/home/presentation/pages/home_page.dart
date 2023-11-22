@@ -51,7 +51,7 @@ class _HomePageState extends State<HomePage> with SingleTickerProviderStateMixin
       builder: (context, state) {
         return Scaffold(
           appBar: AppBar(
-            title: const Text("Dog Breeds"),
+            title: const Text("\$appNation"),
             centerTitle: true,
           ),
           body: Stack(
